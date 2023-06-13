@@ -85,6 +85,12 @@ build CMakeFiles/Data_Algo1.dir/Divide_and_Conquer/Maximum_Subarray.cpp.o: CXX_C
   OBJECT_DIR = CMakeFiles/Data_Algo1.dir
   OBJECT_FILE_DIR = CMakeFiles/Data_Algo1.dir/Divide_and_Conquer
 
+build CMakeFiles/Data_Algo1.dir/Pointers_&_Linked_Lists/Basic_pointers_1.cpp.o: CXX_COMPILER__Data_Algo1_Debug /Users/tantikorn/CLionProjects/Data&Algo1/Pointers$ &$ Linked$ Lists/Basic$ pointers$ 1.cpp || cmake_object_order_depends_target_Data_Algo1
+  DEP_FILE = "CMakeFiles/Data_Algo1.dir/Pointers_&_Linked_Lists/Basic_pointers_1.cpp.o.d"
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/Data_Algo1.dir
+  OBJECT_FILE_DIR = "CMakeFiles/Data_Algo1.dir/Pointers_&_Linked_Lists"
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Data_Algo1
@@ -93,7 +99,7 @@ build CMakeFiles/Data_Algo1.dir/Divide_and_Conquer/Maximum_Subarray.cpp.o: CXX_C
 #############################################
 # Link the executable Data_Algo1
 
-build Data_Algo1: CXX_EXECUTABLE_LINKER__Data_Algo1_Debug CMakeFiles/Data_Algo1.dir/Sorting_algorithm/Selection_sort.cpp.o CMakeFiles/Data_Algo1.dir/Sorting_algorithm/Insertion_sort.cpp.o CMakeFiles/Data_Algo1.dir/Sorting_algorithm/Bubble_sort.cpp.o CMakeFiles/Data_Algo1.dir/Sorting_algorithm/Merge_sort.cpp.o CMakeFiles/Data_Algo1.dir/Sorting_algorithm/Quicksort.cpp.o CMakeFiles/Data_Algo1.dir/Divide_and_Conquer/Maximum_Subarray.cpp.o
+build Data_Algo1: CXX_EXECUTABLE_LINKER__Data_Algo1_Debug CMakeFiles/Data_Algo1.dir/Sorting_algorithm/Selection_sort.cpp.o CMakeFiles/Data_Algo1.dir/Sorting_algorithm/Insertion_sort.cpp.o CMakeFiles/Data_Algo1.dir/Sorting_algorithm/Bubble_sort.cpp.o CMakeFiles/Data_Algo1.dir/Sorting_algorithm/Merge_sort.cpp.o CMakeFiles/Data_Algo1.dir/Sorting_algorithm/Quicksort.cpp.o CMakeFiles/Data_Algo1.dir/Divide_and_Conquer/Maximum_Subarray.cpp.o CMakeFiles/Data_Algo1.dir/Pointers_&_Linked_Lists/Basic_pointers_1.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/Data_Algo1.dir
   POST_BUILD = :
