@@ -1,0 +1,6 @@
+# ninja log v5
+14	384	1686644422164561671	CMakeFiles/Data_Algo1.dir/Sorting_algorithm/Selection_sort.cpp.o	a93015f2c1661603
+14	380	1686644422159735618	CMakeFiles/Data_Algo1.dir/Sorting_algorithm/Bubble_sort.cpp.o	9527e68c4c9a6009
+11	45	1686644191207517686	CMakeFiles/Data_Algo1.dir/main.cpp.o	661e798825c0b440
+391	438	1686644422221478445	Data_Algo1	7b78017fc63fa9c7
+14	391	1686644422171535712	CMakeFiles/Data_Algo1.dir/Sorting_algorithm/Insertion_sort.cpp.o	e35c39f1ddc663d3

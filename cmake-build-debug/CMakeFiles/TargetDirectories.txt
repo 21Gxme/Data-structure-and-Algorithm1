@@ -1,0 +1,3 @@
+/Users/tantikorn/CLionProjects/Data&Algo1/cmake-build-debug/CMakeFiles/Data_Algo1.dir
+/Users/tantikorn/CLionProjects/Data&Algo1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tantikorn/CLionProjects/Data&Algo1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
